@@ -15,11 +15,11 @@ Make sure you have installed the dependencies:
 
 Clone the [source] with `git`:
  ```sh
-   git clone https://github.com/dedsecubr/Purge
+   git clone https://github.com/dedsecurity/Purge
    cd Purge
    ```
 
- [source]: https://github.com/dedsecubr/Purge
+ [source]: https://github.com/dedsecurity/Purge
  
  ## Contributing
 Feel free to submitting pull requests to us.
